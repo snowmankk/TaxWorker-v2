@@ -1,0 +1,14 @@
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.exe.config
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.exe
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.pdb
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.csprojAssemblyReference.cache
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.csproj.CoreCompileInputs.cache
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.exe
+C:\Users\wayy1\source\repos\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.pdb
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.csproj.CoreCompileInputs.cache
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.exe
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.pdb
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.exe.config
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.exe
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\bin\Debug\TaxWorker-v2.pdb
+C:\Users\wayy1\Desktop\TaxWorker-v2\TaxWorker-v2\obj\Debug\TaxWorker-v2.csprojAssemblyReference.cache
